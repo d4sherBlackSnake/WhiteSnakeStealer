@@ -151,4 +151,5 @@ WhiteSnake patch 1.5.9
 ## Contact details:  
 	Keybase: d4sher  
 	Github: d4sherBlackSnake  
+	Twitter: d4sherblksnake
 
