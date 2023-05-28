@@ -153,3 +153,7 @@ WhiteSnake patch 1.5.9
 	Github: d4sherBlackSnake  
 	Twitter: d4sherblksnake
 
+## To save your time
+# Price: 600 USD 
+# I only accept BTC/XMR
+	
