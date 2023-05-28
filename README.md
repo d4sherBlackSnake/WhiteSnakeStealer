@@ -5,6 +5,7 @@ WhiteSnake Stealer (Windows Stub Full Source Code)
 ## Version
 WhiteSnake patch 1.5.9
 
+![whitesnake stealer project tree screenshot](Screenshot%202023-05-28%20182439.png?raw=true "whitesnake stealer project tree screenshot")
 
 ## Project Specs
 ✅ Fully reversed  
