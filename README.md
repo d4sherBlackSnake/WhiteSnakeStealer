@@ -1,4 +1,4 @@
-# WhiteSnakeStealer
+# WhiteSnake Stealer
 WhiteSnake Stealer (Windows Stub Full Source Code)
 
 
