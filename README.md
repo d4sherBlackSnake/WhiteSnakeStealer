@@ -1,3 +1,5 @@
+![banner](banner.jpg "banner")
+
 # WhiteSnake - Unique stealer of 2023
 WhiteSnake Stealer (Source Code)
 
